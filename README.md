@@ -4,9 +4,18 @@
 ## SAC is states selection board and its motive to select the best cricket player  from the states  !
 
 
-### **FEATURE**
-- It will help to know  that are you eligile for state cricket team
-- also you can give your past match details and check are you selected or not!
-- it also know
-- 
+## **FEATURE**
+- its user friendly
+- can get faster result
+- simple condition
+- easy to use
+- can check own ability
+
+## **LANGUAGE USED**
+ 1. ### **C**
+
+## **INSTALLATION**
+1. Goto to repository
+2. Now click to  
+  
    
