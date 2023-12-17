@@ -23,8 +23,8 @@
 ## **Author**
   AMAN RAWAT 
 ## **Contact**
-- **Email;** [rwtaman246149@gmail.com]
-- **Github :** [ 
+- **Email**: rwtaman246149@gmail.com
+- **Github**: [github profile]() 
 
 
    
