@@ -4,18 +4,27 @@
 ## SAC is states selection board and its motive to select the best cricket player  from the states  !
 
 
-## **FEATURE**
+## **Feature**
 - its user friendly
 - can get faster result
 - simple condition
 - easy to use
 - can check own ability
 
-## **LANGUAGE USED**
+## **Language used**
  1. ### **C**
 
-## **INSTALLATION**
+## **Installation**
 1. Goto to repository
-2. Now click to  
-  
+2. Now click to `myfirstminiproject.c`
+
+## **Contributing**
+
+## **Author**
+  AMAN RAWAT 
+## **Contact**
+- **Email;** [rwtaman246149@gmail.com]
+- **Github :** [ 
+
+
    
