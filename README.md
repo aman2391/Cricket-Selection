@@ -11,6 +11,13 @@
 - easy to use
 - can check own ability
 
+## **way to use**
+1. First input your name
+2. Then choose your profession(batsmen or blower)
+3. Now upload ask the details (like : max runs, avg , strike rate)
+4. if your above the cut off  critiea "congratulations"
+5. if not selected try next time   
+
 ## **Language used**
  1. ### **C**
 
