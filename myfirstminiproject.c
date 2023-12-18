@@ -6,7 +6,7 @@ int main()
  char name[100] ;
  int ask, best,runs;
  float avg; 
-  printf("------------BCCI selection commitee----------------\n\n");
+  printf("------------SAC selection commitee----------------\n\n");
 // enter your full name 
   printf("Enter the Name:\n");
   scanf("%s", &name);
