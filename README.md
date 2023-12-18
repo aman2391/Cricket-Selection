@@ -25,10 +25,9 @@
 1. Goto to repository
 2. Now click to `myfirstminiproject.c`
 
-## **Contributing**
-
 ## **Author**
   AMAN RAWAT 
+  
 ## **Contact**
 - **Email**: rwtaman246149@gmail.com
 - **Github**: [github profile](https://github.com/aman2391) 
