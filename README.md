@@ -21,7 +21,7 @@
 ## **Language used**
  1. ### **C**
 
-## **how to read code**
+## **How to read code**
 1. Goto to repository
 2. Now click to `myfirstminiproject.c`
 
