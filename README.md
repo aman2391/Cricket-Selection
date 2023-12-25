@@ -19,7 +19,7 @@
 5. if not selected try next time   
 
 ## **Language used**
- 1. ### **C**
+ - ### **C** programming language 
 
 ## **How to read code**
 1. Goto to repository
